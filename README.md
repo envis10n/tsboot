@@ -1,6 +1,6 @@
 # tsboot
 
-A tool for bootstrapping a Typescript project.
+A CLI tool for bootstrapping a Typescript project.
 
 ## Install
 

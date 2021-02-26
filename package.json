@@ -19,6 +19,7 @@
     "tsboot": "./bin/tsboot"
   },
   "author": "envis10n <envis10n@envis10n.dev>",
+  "repository": "https://github.com/envis10n/tsboot",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^26.0.20",
